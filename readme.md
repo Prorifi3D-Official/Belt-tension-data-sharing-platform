@@ -71,5 +71,7 @@ This repository serves as a timing belt tension data sharing platform for all 3D
 					- (photo evidence)
 					- ...
 
+## Further improve the print quality
 
+- To further improve the print quality, a more effective method than just adjusting the timing belt is to [upgrade to low-vibration motors](https://prorifi3d.com/collections/upgrade-kit).
 

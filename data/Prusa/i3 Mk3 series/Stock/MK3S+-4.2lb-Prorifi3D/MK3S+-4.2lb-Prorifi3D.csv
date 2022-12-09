@@ -1,0 +1,13 @@
+Provided by,Prorifi3D
+Date,2022/12/8
+Test Speed,25mm/s;QUALITY mode default speed
+layer height,0.15mm
+Optimum tension,4.2lb
+Worst tension,2.8lb
+MRR tendency,Decrease from 2lb to 4.2lb slightly increase from 4.2lb to 7lb
+Belt rippling tendency,Decrease from 2lb to 4.2lb almost disappear at 4.2lb reappear at 6lb
+Machine status,Stock version
+Firmware,Official 3.11.0-4955
+Belt type,stock Gates rf GT2 6mm wide
+Motors,XY all stock motors
+Other modifications,None
